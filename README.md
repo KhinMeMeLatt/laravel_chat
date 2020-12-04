@@ -2,6 +2,9 @@
 
 This application is implemented by using pusher API.
 
+## Screenshot
+![Chat Screenshot](https://github.com/KhinMeMeLatt/laravel_chat/blob/main/chat_screenshot.JPG)
+
 ## Installation
 
 ### Step 1: Clone this repo
